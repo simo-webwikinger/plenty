@@ -1,0 +1,11 @@
+{
+    "name": "webw/plenty",
+    "description": "helpers for plenty",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "require": {}
+}
