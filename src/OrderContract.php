@@ -1,5 +1,6 @@
 <?php 
-namespace WWPlenty;
+
+namespace Webwikinger\PlentyHelpers;
 
 class OrderContract
 {

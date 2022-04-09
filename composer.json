@@ -1,11 +1,19 @@
 {
-    "name": "webw/plenty",
-    "description": "helpers for plenty",
+    "name": "webwikinger/plenty-helpers",
+    "description": "helpers for plentymarkets",
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "Webwikinger\\PlentyHelpers\\": "src/"
+        }
+    },
     "authors": [
         {
-            "name": "",
-            "email": ""
+            "name": "Simo",
+            "email": "aarab@web-wikinger.de"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
